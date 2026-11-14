@@ -1,6 +1,6 @@
 {
   "name": "@vehicore/sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Official TypeScript & JavaScript SDK for Vehicore vehicle image processing and automotive data APIs (OCR, damage recognition, GDPR anonymization, car position, classification, normalization, valuation, renders, and claims).",
   "license": "MIT",
   "homepage": "https://vehicore.pro",
